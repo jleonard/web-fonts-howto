@@ -11,5 +11,6 @@ The Chrome extension is preferable because custom artwork is not uploaded to 3rd
 ## Adding Symbols
 * Add your symbol to the .svg template. 
 * Launch [the app](chrome-extension://kppingdhhalimbaehfmhldppemnmlcjd/IcoMoonApp.html) and import your .svg.
+* **Done**
 
 Your icons can be mixed and matched with any of the libraries provided by IcoMoon including Font Awesome.
