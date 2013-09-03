@@ -15,5 +15,5 @@ Creating custom web fonts
 * Launch [the app](chrome-extension://kppingdhhalimbaehfmhldppemnmlcjd/IcoMoonApp.html) and import your .svg.
 * **Done**
 
-Your icons can be mixed and matched with any of the libraries provided by IcoMoon including Font Awesome.
+Your icons can be mixed and matched with any of the libraries provided by IcoMoon including [Font Awesome](chrome-extension://kppingdhhalimbaehfmhldppemnmlcjd/IcoMoonApp.html#library).
  
