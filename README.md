@@ -9,7 +9,7 @@ Creating custom web fonts
 
 ## Adding Symbols
 * Add your symbol to the .svg template. 
-* Launch [the app](chrome-extension://kppingdhhalimbaehfmhldppemnmlcjd/IcoMoonApp.html) and import your .svg.
+* Launch the extension and import your .svg.
 * **Done**
 
 > The exported icon font is cross-browser compatible down to IE6.
