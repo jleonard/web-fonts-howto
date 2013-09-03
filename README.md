@@ -1,4 +1,4 @@
-web-fonts-howto
-===============
+Creating custom web fonts with ico moon
+=============================================
 
-Template for creating custom web fonts
+> [IcoMoon](http://icomoon.io/) hi
