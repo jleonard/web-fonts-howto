@@ -1,4 +1,6 @@
-Creating custom web fonts with ico moon
-=============================================
+Creating custom web fonts
+=========================
 
-> [IcoMoon](http://icomoon.io/) hi
+## Install the Chrome Extension
+[https://chrome.google.com/webstore/detail/icomoon/kppingdhhalimbaehfmhldppemnmlcjd](https://chrome.google.com/webstore/detail/icomoon/kppingdhhalimbaehfmhldppemnmlcjd)
+> [IcoMoon](http://icomoon.io/) 
