@@ -7,13 +7,10 @@ Creating custom web fonts
 > With the Chrome extension custom artwork is not uploaded to 3rd party servers.
 
 
-##### The .svg template provided was designed for compatibility with the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) web icon library.
-
-
 ## Adding Symbols
 * Add your symbol to the .svg template. 
 * Launch [the app](chrome-extension://kppingdhhalimbaehfmhldppemnmlcjd/IcoMoonApp.html) and import your .svg.
 * **Done**
 
-Your icons can be mixed and matched with any of the libraries provided by IcoMoon including [Font Awesome](chrome-extension://kppingdhhalimbaehfmhldppemnmlcjd/IcoMoonApp.html#library).
+##### The .svg template provided was designed for compatibility with the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) web icon library.
  
