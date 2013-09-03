@@ -12,5 +12,8 @@ Creating custom web fonts
 * Launch [the app](chrome-extension://kppingdhhalimbaehfmhldppemnmlcjd/IcoMoonApp.html) and import your .svg.
 * **Done**
 
+> The exported icon font is cross-browser compatible down to IE6. For using your fonts in .css, learn more about the [@font-face] syntax(http://www.fontspring.com/blog/the-new-bulletproof-font-face-syntax)
+
+
 ##### The .svg template was designed for compatibility with the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) web icon library.
  
