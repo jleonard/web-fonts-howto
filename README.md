@@ -12,5 +12,5 @@ Creating custom web fonts
 * Launch [the app](chrome-extension://kppingdhhalimbaehfmhldppemnmlcjd/IcoMoonApp.html) and import your .svg.
 * **Done**
 
-##### The .svg template provided was designed for compatibility with the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) web icon library.
+##### The .svg template was designed for compatibility with the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) web icon library.
  
