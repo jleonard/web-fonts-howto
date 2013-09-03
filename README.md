@@ -5,5 +5,4 @@ Creating custom web fonts
 The Chrome extension is preferable for client work because custom artwork is not uploaded to 3rd party servers.
 
 
-## Install the Chrome Extension
-
+##### The .svg template provided was designed to be compatible with the [Font Awesome](http://fortawesome.github.io/Font-Awesome/) web icon library.
