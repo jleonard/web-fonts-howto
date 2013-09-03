@@ -16,3 +16,4 @@ Creating custom web fonts
 * **Done**
 
 Your icons can be mixed and matched with any of the libraries provided by IcoMoon including Font Awesome.
+ 
